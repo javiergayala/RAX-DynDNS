@@ -12,7 +12,7 @@ import pyrax.exceptions as exc
 
 # Variables used for obtaining IP Information
 remoteHost = '8.8.8.8'
-remotePort = 80
+remotePort = 53
 publicRslv = 'http://icanhazip.com/'
 publicRslvPort = 80
 
